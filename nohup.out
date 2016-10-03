@@ -1,0 +1,2811 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-20:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-19:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-17:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-23:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-28:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-30:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-24:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-27:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-33:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-32:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-26:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-36:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-40:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-42:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-22:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-39:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-38:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-37:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-43:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-41:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-35:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-47:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-21:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-44:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-31:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-49:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-48:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-29:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-51:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-50:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-18:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-53:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-58:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-59:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-55:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-65:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-56:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-64:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-34:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-63:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-57:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-54:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-52:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-72:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-82:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-66:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-45:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-80:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-60:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-61:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-68:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-70:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-75:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-88:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-76:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-73:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-92:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-87:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-85:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-90:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-89:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-71:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-93:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-86:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-96:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-67:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-94:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-79:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-77:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-78:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-69:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-84:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-91:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-99:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-98:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-83:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-74:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-46:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-95:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-100:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-62:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-81:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-97:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-103:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-101:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-105:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-102:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-104:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-106:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-107:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-109:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-108:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-110:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-112:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-113:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-111:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-114:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-116:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-117:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-120:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-121:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-122:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-115:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-119:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-118:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-126:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-125:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-124:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-129:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-128:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-132:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-134:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-135:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-133:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-138:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-136:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-131:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-139:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-130:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-137:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-140:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-141:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-142:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-143:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-127:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-123:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-144:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-145:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-146:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-147:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-149:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-150:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-151:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-148:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-152:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-153:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-154:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-155:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-156:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-157:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-158:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-159:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-160:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-161:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-162:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-173:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-166:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-163:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-169:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-174:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-171:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-164:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-172:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-177:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-176:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-165:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-179:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-168:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-167:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-178:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-170:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-175:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-180:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-183:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-181:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-184:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-182:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-188:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-187:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-186:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-185:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-189:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-192:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-191:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-190:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-193:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-194:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-195:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-196:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-198:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 30, in bard
+    temp1=temp1.replace("xx",sample(word2,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-197:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-199:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+Exception in thread Thread-200:
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/threading.py", line 811, in __bootstrap_inner
+    self.run()
+  File "/usr/lib64/python2.7/threading.py", line 1083, in run
+    self.function(*self.args, **self.kwargs)
+  File "bot.py", line 42, in send_tweet
+    my_bot.send_tweet(bard())
+  File "bot.py", line 28, in bard
+    temp1=temp1.replace("xxxx",sample(word4,1)[0],1)
+  File "/usr/lib64/python2.7/random.py", line 320, in sample
+    raise ValueError("sample larger than population")
+ValueError: sample larger than population
+
+1475408691.86
+1475411023.93
+Traceback (most recent call last):
+  File "bot.py", line 38, in <module>
+    send_tweet()()
+NameError: name 'send_tweet' is not defined
+1475411031.08
+Traceback (most recent call last):
+  File "bot.py", line 38, in <module>
+    send_tweet()()
+NameError: name 'send_tweet' is not defined
